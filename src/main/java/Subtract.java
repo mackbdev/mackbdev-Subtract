@@ -14,7 +14,8 @@ public class Subtract {
      * @param b some decimal number
      * @return a minus b
      */
+    public static void main(String[] args){};
     public double sub(double a, double b){
-        return 0;
+        return a-b;
     }
 }
